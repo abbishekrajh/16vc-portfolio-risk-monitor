@@ -1,0 +1,36 @@
+company_name,company_domain,city,sector,founded_year,latest_stage,announced_date,round_amount_k,lead_investor,investor_count,total_rounds_raised,total_capital_raised,prev_round_k,months_since_last_round
+Propsoch,propsoch.com,Bengaluru,Consumer,2022,Seed,2026-06-03,2000.0,"Athera Venture Partners",3,1,2000.0,0.0,5
+SuperShare,ssup.co,Bengaluru,"Enterprise Applications",2018,"Series A",2026-04-07,6500.0,"Accel India",3,3,18820.0,6500.0,7
+"Mave Health",mavehealth.com,Bengaluru,Healthtech,2023,Seed,2026-03-19,2100.0,"Blume Ventures",1,2,2820.0,720.0,8
+NewTrace,newtrace.io,Bengaluru,"Energy Tech",2020,"Pre-Series A",2026-03-10,6570.0,"Hdfc Bank",9,4,14220.0,5650.0,8
+HireBound,hirebound.io,Bengaluru,"Enterprise Applications",2024,Seed,2026-02-23,2000.0,Antler,4,1,2000.0,0.0,8
+Peptris,peptris.com,Bengaluru,Healthtech,2019,"Series A",2026-02-17,8400.0,"IAN Alpha Fund",4,3,10400.0,1000.0,9
+"Dslr Technologies",dslr.team,Bengaluru,Consumer,2021,"Series A",2026-02-09,9600.0,"Z47 (formerly Matrix Partners India)",2,4,25350.0,7000.0,9
+"Elevate Now",joinelevatenow.com,Bengaluru,Healthtech,2022,Seed,2026-02-09,2160.0,"Physis Capital",3,1,2160.0,0.0,9
+"Good Monk",goodmonk.in,Bengaluru,"Food and Agriculture",2021,"Pre-Series A",2026-01-30,3960.0,"Sharrp Ventures",5,3,6220.0,1420.0,9
+Bolna,bolna.dev,Bengaluru,"High Tech",2024,Seed,2026-01-20,6300.0,"Y Combinator",8,1,6300.0,0.0,9
+Misochain,misochain.in,Bengaluru,"Aerospace, Maritime and Defense",2019,Seed,2026-01-13,2160.0,Capital-A,2,1,2160.0,0.0,10
+"PowerUp Money",powerup.money,Bengaluru,Fintech,2023,"Series A",2025-12-22,12000.0,"Peak Xv Partners",7,2,19100.0,7100.0,10
+DUX,duxedu.in,Bengaluru,Edtech,2020,Seed,2025-12-16,9000.0,Redpoint,6,1,9000.0,0.0,11
+NeoSapien,neosapien.xyz,Bengaluru,Consumer,2024,Seed,2025-12-11,2000.0,"Merak Ventures",8,1,2000.0,0.0,11
+Morphle,morphlelabs.com,Bengaluru,"Life Sciences",2017,"Series A",2025-11-25,5000.0,"Inflexor Ventures",1,1,5000.0,0.0,11
+CrisprBits,crisprbits.com,Bengaluru,"Life Sciences",2020,"Pre-Series A",2025-11-25,3000.0,"Founders and Existing Investors",7,2,3250.0,250.0,11
+Codeyoung,codeyoung.com,Bengaluru,Edtech,2019,Seed,2025-11-14,1860.0,"Guild Capital",1,2,6860.0,0.0,12
+Consuma,consuma.ai,Bengaluru,"Enterprise Applications",2021,Seed,2025-10-14,1300.0,"Equirus InnovateX Fund",10,1,1300.0,0.0,13
+Chara,chara.co.in,Bengaluru,"Energy Tech",2019,"Series A",2025-10-12,6000.0,"Arkam Ventures",4,3,11600.0,4750.0,13
+Meolaa,meolaa.com,Bengaluru,Retail,2022,Seed,2025-10-08,5220.0,"Manipal Group",5,4,13385.0,6000.0,13
+Recove,recoveapp.com,Bengaluru,Healthtech,2020,Pre-seed,2025-09-24,636.0,"Momentum Capital",8,1,636.0,0.0,13
+"OnFinance AI",onfinance.ai,Bengaluru,"Enterprise Applications",2023,"Pre-Series A",2025-09-23,4200.0,"Groww Founders’ Fund",7,2,5250.0,1050.0,13
+PlatinumRx,platinumrx.in,Bengaluru,Healthtech,2023,"Series A",2025-09-03,6000.0,"Stellaris Venture Partners",2,2,6800.0,800.0,14
+"House Of Zelena",houseofzelena.com,Bengaluru,Consumer,2021,Seed,2025-09-03,840.0,Gsf,2,1,840.0,0.0,14
+Famyo,famyo.in,Bengaluru,Retail,2020,Seed,2025-08-18,480.0,"IAN Angel Fund",9,1,480.0,0.0,15
+WizCommerce,wizcommerce.com,Bengaluru,Retail,2020,"Series A",2025-08-06,8000.0,"Peak Xv Partners",4,1,8000.0,0.0,15
+"DPD Zero",dpdzero.com,Bengaluru,Fintech,2022,"Series A",2025-08-05,7000.0,"GMO Venture Partners",5,3,10718.0,3250.0,15
+Metaforms,metaforms.ai,Bengaluru,"Enterprise Applications",2019,"Series A",2025-07-31,9000.0,"Peak Xv Partners",3,1,9000.0,0.0,15
+"Ammunic Systems",ammunicsystems.com,Bengaluru,"Aerospace, Maritime and Defense",2019,Seed,2025-07-23,1100.0,"India Accelerator",2,1,1100.0,0.0,15
+Kuru,kuru.io,Bengaluru,Fintech,2024,"Series A",2025-07-12,11600.0,Paradigm,3,2,13600.0,2000.0,16
+Loopworm,loopworm.in,Bengaluru,"Food and Agriculture Tech",2019,"Pre-Series A",2025-07-04,3250.0,"Waterbridge Ventures",2,2,6650.0,3400.0,16
+"Alt Carbon",alt-carbon.com,Bengaluru,"Environment Tech",2023,Seed,2025-05-22,12000.0,,1,4,13600.0,500.0,17
+"Alt DRX",altdrx.com,Bengaluru,Fintech,2021,"Pre-Series A",2025-05-08,2760.0,"Qatar Development Bank",9,1,2760.0,0.0,18
+Vimano,vimano.biz,Bengaluru,"Energy Tech",2019,Seed,2025-04-06,3000.0,"Ankur Capital",1,1,3000.0,0.0,19
+Gramiyaa,gramiyaa.com,Bengaluru,"Food and Agriculture Tech",2016,"Pre-Series A",2025-03-24,864.0,"Homegrown Ventures",3,3,3144.0,1140.0,19
