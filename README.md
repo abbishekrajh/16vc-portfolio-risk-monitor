@@ -1,8 +1,8 @@
-# 16VC | Portfolio Runway, Burn Efficiency & Risk Monitor
+ Portfolio Runway, Burn Efficiency & Risk Monitor
 
 An end-to-end venture capital portfolio monitoring pipeline combining **SQL deal exports**, a **dynamic Excel scenario & risk model**, and an **interactive Tableau Partner Dashboard** across 35 early-stage startups (Pre-Seed to Series A).
 
-![16VC Portfolio Dashboard](assets/dashboard_preview.png)
+![Portfolio Dashboard](assets/dashboard_preview.png)
 
 🔗 **[View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/abbishek.rajh/viz/16VCPortfolioRunwayBurnEfficiencyRiskMonitor/16VC_Portfolio_Dashboard)**
 
